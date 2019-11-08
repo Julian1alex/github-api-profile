@@ -1,11 +1,11 @@
 {
-  "users": [
+  "user": [
     {
       "id": 1,
       "name": "Ryan"
     },
     {
-      "name": "Mike",
+      "username": "Mike",
       "id": 2
     }
   ]
